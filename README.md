@@ -1,16 +1,25 @@
-## Hi there 👋
+# ¡Hola! Soy Matias Bertuccio 👋
 
-<!--
-**mabertuccio/mabertuccio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi perfil de GitHub.
 
-Here are some ideas to get you started:
+## 🧠 Sobre Mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **📍 Ubicación:** Ciudad de Buenos Aires, Argentina
+- **💼 Profesión:** Estudiante
+- **🌱 Actualmente Aprendiendo:** React y Node
+- **🎯 Objetivos Actuales:** Finalizar la carrera y encontrar un trabajo relacionado al desarrollo de software.
+- **🌐 Conéctame:** [LinkedIn](https://www.linkedin.com/in/matiasbertuccio/)
+
+## 🚀 Proyectos Destacados
+
+- **[e-Commerce Gamer](https://github.com/mabertuccio/e-commerce):** Una plataforma para la gestión de un comercio electrónico utilizando HTML, CSS, PHP y JavaScript
+
+## 📚 Tecnologías y Herramientas
+
+- **Lenguajes de Programación:** HTML, CSS, JavaScript, PHP y Python.
+- **Frameworks y Librerías:** Tailwind y React.
+- **Herramientas y Plataformas:** Visual Studio Code y Figma.
+
+---
+
+¡Gracias por visitar mi perfil! 🚀
