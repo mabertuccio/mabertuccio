@@ -6,16 +6,17 @@ Bienvenido a mi perfil de GitHub.
 
 ### 🧠 Sobre Mí
 
-- **📍 Ubicación:** Ciudad Autónoma de Buenos Aires, Argentina
-- **💼 Profesión:** Estudiante
-- **🎯 Objetivos Actuales:** Finalizar la carrera y encontrar un trabajo relacionado al desarrollo de software.
-- **🌐 Contáctame:** [LinkedIn](https://www.linkedin.com/in/matiasbertuccio/)
+- **📍 Ubicación**: Ciudad Autónoma de Buenos Aires, Argentina
+- **💼 Profesión**: Estudiante
+- **🎯 Objetivos Actuales**: Finalizar la carrera y encontrar un trabajo relacionado al desarrollo de software.
+- **🌐 Contáctame**: [LinkedIn](https://www.linkedin.com/in/matiasbertuccio/)
 
 ---
 
 ### 🌟 Proyectos Destacados
 
-- **[e-Commerce Gamer](https://github.com/mabertuccio/e-commerce):** Una plataforma para la gestión de un comercio electrónico utilizando HTML, CSS, PHP y JavaScript.
+- **[e-Commerce Gamer](https://github.com/mabertuccio/e-commerce)**: Una plataforma para la gestión de un comercio electrónico utilizando HTML, CSS, PHP y JavaScript.
+- **[Chat App](https://](https://github.com/mabertuccio/chat-app))**: Un programa para intercambiar mensajes entre múltiples clientes realizado con Python y los módulos de Sockets y Threading.
 
 ---
 
